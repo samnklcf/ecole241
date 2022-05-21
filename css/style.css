@@ -440,7 +440,7 @@ figure {
   padding: 18px 30px !important;
   color: #fff;
   border: none !important;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -672,7 +672,7 @@ figure {
   border: 2px solid rgba(0, 0, 0, 0.8) !important;
   background: transparent;
   color: rgba(0, 0, 0, 0.8) !important;
-  font-size: 12px;
+  font-size: 14px;
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 1px;
@@ -1037,7 +1037,7 @@ figure {
 }
 
 .fh5co-blog .blog-text span {
-  font-size: 12px;
+  font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 700;
@@ -1107,7 +1107,7 @@ figure {
 #fh5co-register .btn-reg {
   background: transparent;
   border: 2px solid #fff;
-  font-size: 12px;
+  font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 700;
@@ -1161,7 +1161,7 @@ figure {
 .simply-countdown>.simply-section .simply-word {
   color: rgba(255, 255, 255, 0.9);
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 2px;
   font-weight: 700;
   /* words */
@@ -1230,7 +1230,7 @@ figure {
 .staff span {
   display: block;
   margin-bottom: 10px;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .staff:hover .staff-img:before {
@@ -1352,7 +1352,7 @@ figure {
 #fh5co-footer .fh5co-widget h3 {
   margin-bottom: 15px;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 2px;
   text-transform: uppercase;
   font-family: "Source Sans Pro", Arial, sans-serif;
@@ -1921,4 +1921,27 @@ figure {
   .none2 {
     display: none;
   }
+}
+
+.n {
+  padding: 12px 24px;
+  transition: all .2s ease;
+  margin-top: 30px !important;
+}
+
+.n:hover {
+  background-color: white !important;
+  color: #EA1D25;
+  border: solid #EA1D25;
+}
+
+.bil {
+  background-color: rgba(211, 209, 209, 0.11);
+  padding-top: 70px;
+  padding-right: 80px;
+  padding-left: 80px;
+}
+
+.bg {
+  
 }
